@@ -9,6 +9,7 @@ Interaktivität durch Schalter und Taster. <br>
 - Schalter versetzt Wesen in Sleep-Mode. <br>
 - Taster S1 startet Minigame: Pacman
 - S4 beendet Pacman <br>
+- Über Schalter-Kombi oder Joystick Pacman User steuern
 - Taster S13 startet Singing Mode (kurze Melodien) <br>
 
 Je häufiger interagiert wird, desto eher wird Angry-Mood aktiviert. <br>
